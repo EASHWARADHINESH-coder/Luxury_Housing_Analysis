@@ -182,38 +182,6 @@ The dashboard includes slicers for:
 
 ---
 
-## 📊 Dashboard Link (Optional)
-
-Add your Power BI Service link here:
-[View Live Dashboard](https://app.powerbi.com/...)
-
----
-
-## 🎯 Evaluation Metrics
-
-| Metric                  | Weight |
-|------------------------|--------|
-| Python Cleaning        | 25%    |
-| SQL Integration        | 25%    |
-| Power BI Dashboard     | 30%    |
-| Insight Quality        | 10%    |
-| Documentation          | 10%    |
-
----
-
-## 🧠 Viva Explanation Flow
-
-1. Business Objective  
-2. KPI Overview  
-3. Builder Performance  
-4. Booking Conversion  
-5. Market Trends  
-6. Advanced Insights  
-7. Interactivity  
-8. Final Conclusion  
-
----
-
 ## 🏁 Conclusion
 
 This dashboard provides **data-driven insights** into the luxury housing market and helps:
