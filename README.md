@@ -127,7 +127,7 @@ Demand for housing configurations is relatively evenly distributed across 3BHK, 
 - 100% stacked chart → Booking success by channel
 
 👉 Insight:
-**Referral & Direct Sales outperform Brokers**.
+**Booking success rates are relatively similar across all sales channels, with Brokers slightly outperforming other channels**.
 
 ---
 
