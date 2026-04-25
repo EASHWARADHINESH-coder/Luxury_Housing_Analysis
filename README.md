@@ -116,9 +116,10 @@ Better amenities slightly improve booking success.
 - Donut chart showing demand for:
   - 3BHK
   - 4BHK
+  - 5BHK
 
 👉 Insight:
-**3BHK & 4BHK dominate the market demand**.
+**Demand for housing configurations is relatively evenly distributed across 3BHK, 4BHK, and 5BHK, with no single configuration significantly dominating the market**.
 
 ---
 
