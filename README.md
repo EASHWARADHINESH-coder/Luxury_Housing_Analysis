@@ -165,7 +165,6 @@ The dashboard includes slicers for:
 
 - High revenue ≠ high ticket size → **volume matters**
 - Booking conversion is relatively low (~33%)
-- Premium configurations (3BHK/4BHK) dominate demand
 - Referral-based sales channels are most effective
 - Amenities positively influence buyer decisions
 - Market demand varies across quarters and locations
