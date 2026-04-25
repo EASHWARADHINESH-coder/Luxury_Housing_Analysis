@@ -119,7 +119,7 @@ Better amenities slightly improve booking success.
   - 5BHK
 
 👉 Insight:
-**Demand for housing configurations is relatively evenly distributed across 3BHK, 4BHK, and 5BHK, with no single configuration significantly dominating the market**.
+Demand for housing configurations is relatively evenly distributed across 3BHK, 4BHK, and 5BHK, with no single configuration significantly dominating the market.
 
 ---
 
